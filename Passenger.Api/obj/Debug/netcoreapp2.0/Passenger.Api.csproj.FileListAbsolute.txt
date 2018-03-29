@@ -18,3 +18,7 @@ C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Api\obj\Debug\netcoreapp2
 C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Api\obj\Debug\netcoreapp2.0\Passenger.Api.AssemblyInfo.cs
 C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Api\obj\Debug\netcoreapp2.0\Passenger.Api.dll
 C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Api\obj\Debug\netcoreapp2.0\Passenger.Api.pdb
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Core.dll
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Infrastructure.dll
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Infrastructure.pdb
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Core.pdb

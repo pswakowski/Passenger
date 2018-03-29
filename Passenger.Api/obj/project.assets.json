@@ -4746,6 +4746,29 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "Passenger.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Passenger.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Passenger.Core.dll": {}
+        }
+      },
+      "Passenger.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Passenger.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Passenger.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Passenger.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -12525,12 +12548,24 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "Passenger.Core/1.0.0": {
+      "type": "project",
+      "path": "../Passenger.Core/Passenger.Core.csproj",
+      "msbuildProject": "../Passenger.Core/Passenger.Core.csproj"
+    },
+    "Passenger.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Passenger.Infrastructure/Passenger.Infrastructure.csproj",
+      "msbuildProject": "../Passenger.Infrastructure/Passenger.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.3",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "Passenger.Core >= 1.0.0",
+      "Passenger.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12562,7 +12597,14 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\MEMEK\\Documents\\workspace\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\MEMEK\\Documents\\workspace\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
+            },
+            "C:\\Users\\MEMEK\\Documents\\workspace\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
+              "projectPath": "C:\\Users\\MEMEK\\Documents\\workspace\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
