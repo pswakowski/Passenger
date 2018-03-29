@@ -1,0 +1,16 @@
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test.EndToEnd\bin\Debug\netstandard2.0\Passenger.Test.EndToEnd.deps.json
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test.EndToEnd\bin\Debug\netstandard2.0\Passenger.Test.EndToEnd.dll
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test.EndToEnd\bin\Debug\netstandard2.0\Passenger.Test.EndToEnd.pdb
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test.EndToEnd\obj\Debug\netstandard2.0\Passenger.Test.EndToEnd.csproj.CoreCompileInputs.cache
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test.EndToEnd\obj\Debug\netstandard2.0\Passenger.Test.EndToEnd.AssemblyInfoInputs.cache
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test.EndToEnd\obj\Debug\netstandard2.0\Passenger.Test.EndToEnd.AssemblyInfo.cs
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test.EndToEnd\obj\Debug\netstandard2.0\Passenger.Test.EndToEnd.dll
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test.EndToEnd\obj\Debug\netstandard2.0\Passenger.Test.EndToEnd.pdb
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test.EndToEnd\bin\Debug\netstandard2.0\Passenger.Test.EndToEnd.deps.json
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test.EndToEnd\bin\Debug\netstandard2.0\Passenger.Test.EndToEnd.dll
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test.EndToEnd\bin\Debug\netstandard2.0\Passenger.Test.EndToEnd.pdb
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test.EndToEnd\obj\Debug\netstandard2.0\Passenger.Test.EndToEnd.csproj.CoreCompileInputs.cache
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test.EndToEnd\obj\Debug\netstandard2.0\Passenger.Test.EndToEnd.AssemblyInfoInputs.cache
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test.EndToEnd\obj\Debug\netstandard2.0\Passenger.Test.EndToEnd.AssemblyInfo.cs
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test.EndToEnd\obj\Debug\netstandard2.0\Passenger.Test.EndToEnd.dll
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test.EndToEnd\obj\Debug\netstandard2.0\Passenger.Test.EndToEnd.pdb

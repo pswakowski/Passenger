@@ -1,0 +1,16 @@
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.deps.json
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.dll
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.pdb
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfo.cs
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.dll
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.pdb
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.deps.json
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.dll
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.pdb
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfo.cs
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.dll
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.pdb

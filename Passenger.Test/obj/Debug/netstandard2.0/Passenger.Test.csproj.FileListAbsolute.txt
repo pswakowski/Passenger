@@ -1,0 +1,16 @@
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test\bin\Debug\netstandard2.0\Passenger.Test.deps.json
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test\bin\Debug\netstandard2.0\Passenger.Test.dll
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test\bin\Debug\netstandard2.0\Passenger.Test.pdb
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test\obj\Debug\netstandard2.0\Passenger.Test.csproj.CoreCompileInputs.cache
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test\obj\Debug\netstandard2.0\Passenger.Test.AssemblyInfoInputs.cache
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test\obj\Debug\netstandard2.0\Passenger.Test.AssemblyInfo.cs
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test\obj\Debug\netstandard2.0\Passenger.Test.dll
+C:\Users\MEMEK\Documents\workspace\Passenger2\Passenger.Test\obj\Debug\netstandard2.0\Passenger.Test.pdb
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test\bin\Debug\netstandard2.0\Passenger.Test.deps.json
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test\bin\Debug\netstandard2.0\Passenger.Test.dll
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test\bin\Debug\netstandard2.0\Passenger.Test.pdb
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test\obj\Debug\netstandard2.0\Passenger.Test.csproj.CoreCompileInputs.cache
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test\obj\Debug\netstandard2.0\Passenger.Test.AssemblyInfoInputs.cache
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test\obj\Debug\netstandard2.0\Passenger.Test.AssemblyInfo.cs
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test\obj\Debug\netstandard2.0\Passenger.Test.dll
+C:\Users\MEMEK\Documents\workspace\Passenger\Passenger.Test\obj\Debug\netstandard2.0\Passenger.Test.pdb
